@@ -9,7 +9,7 @@ var music_list = []
 var music_playing = false
 var airhorn = false
 
-client.login("MjI4ODk1MjAzODkxNzQwNjcy.CtFA1A.poNxhkjQ-wSMkqGluLO2ydyo6Xs");
+client.login("");
 
 client.on('message', message => {
 	var youtube_play = function(){
